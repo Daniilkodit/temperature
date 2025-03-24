@@ -1,4 +1,4 @@
-#import csv
+import csv
 import matplotlib as plt
 from datetime import datetime
 
